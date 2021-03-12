@@ -1,2 +1,2 @@
 # Dining-Philosophers
-**Akşam yemeği algoritma sorununun çözüm uygulamasıdır.**
+**Temel algoritma sorununun çözüm uygulamasıdır.**
