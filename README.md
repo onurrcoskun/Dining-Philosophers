@@ -1,2 +1,2 @@
 # Dining-Philosophers
-**Temel algoritma sorununun çözüm uygulamasıdır.**
+**Dining-Philosophers algoritma sorusunun çözüm uygulamasıdır.**
